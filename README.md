@@ -1,6 +1,6 @@
 # ReadTheory Support Team
 
-![ReadTheory Logo](https://www.readtheory.org/images/readtheory-logo-2x.png)
+![ReadTheory Logo](https://user-images.githubusercontent.com/120363161/232305353-ca0be6c4-41f6-4b71-aa78-ccfb7754f988.jpg)
 
 We are the support team for ReadTheory, an online reading comprehension program designed to help students improve their reading skills. Our goal is to provide fast and effective support to our users so they can make the most out of our platform.
 
